@@ -1,0 +1,2 @@
+# maxinai
+School of AI.
